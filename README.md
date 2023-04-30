@@ -1,2 +1,2 @@
-# Anlaysis-for-Atliq-HArdware
+# Anlaysis-for-Atliq-Hardware
 This is Sql Based project where put lot of time to learn Sql some basic to advance topics, and i use Power Bi to visualize the query and PowerPoint to presenting whole tasks
